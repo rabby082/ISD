@@ -1,1 +1,6 @@
-i wannna fuck you
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"sakib";
+}
